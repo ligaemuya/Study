@@ -4,7 +4,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b622a4d6-bccb-4525-a786-0cb72de493ac" name="Changes" comment="" />
+    <list default="true" id="86cdcb1d-f738-40f3-b744-40ce1a7e6586" name="Changes" comment="ㅅㄷㄴㅅ">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/hello/core/AppConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/hello/core/CoreApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/hello/core/MemberApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/hello/core/OrderApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/hello/core/discount/DiscountPolicy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/hello/core/discount/FixDiscountPolicy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/hello/core/discount/RateDiscountPolicy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/hello/core/member/Grade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/hello/core/member/Member.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/hello/core/member/MemberRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/hello/core/member/MemberService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/hello/core/member/MemberServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/hello/core/member/MemoryMemberRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/hello/core/order/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/hello/core/order/OrderService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/hello/core/order/OrderServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/appConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/hello/core/CoreApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/hello/core/beandefinition/BeanDefinitionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/hello/core/beanfind/ApplicationContextBasicFindTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/hello/core/beanfind/ApplicationContextExtendsFindTest$TestConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/hello/core/beanfind/ApplicationContextExtendsFindTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/hello/core/beanfind/ApplicationContextInfoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/hello/core/beanfind/ApplicationContextSameBeanFindTest$SameBeanConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/hello/core/beanfind/ApplicationContextSameBeanFindTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/hello/core/discount/RateDiscountPolicyTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/hello/core/member/MemberServiceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/hello/core/order/OrderServiceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/hello/core/singleton/SingletonService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/hello/core/singleton/SingletonTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/hello/core/xml/XmlAppContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/core/order/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hello/core/singleton/SingletonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hello/core/singleton/SingletonTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +55,26 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="core" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -26,7 +87,20 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -40,11 +114,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
@@ -54,8 +132,31 @@
       <recent name="hello.core.discount" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SingletonTest.singletonServiceTest">
-    <configuration name="ApplicationContextExtendsFindTest.findAllBeanByObjectType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ApplicationContextBasicFindTest">
+    <configuration name="SingletonTest.springContainer" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;hello.core.singleton.SingletonTest.springContainer&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ApplicationContextBasicFindTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="core.test" />
       <extension name="coverage">
         <pattern>
@@ -64,30 +165,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="hello.core.beanfind" />
-      <option name="MAIN_CLASS_NAME" value="hello.core.beanfind.ApplicationContextExtendsFindTest" />
-      <option name="METHOD_NAME" value="findAllBeanByObjectType" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="hello.core.beanfind.ApplicationContextBasicFindTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BeanDefinitionTest.findApplicationBean" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="core.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hello.core.beandefinition.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="hello.core.beandefinition" />
-      <option name="MAIN_CLASS_NAME" value="hello.core.beandefinition.BeanDefinitionTest" />
-      <option name="METHOD_NAME" value="findApplicationBean" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SingletonTest.pureContainer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SingletonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="core.test" />
       <extension name="coverage">
         <pattern>
@@ -97,8 +181,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="hello.core.singleton" />
       <option name="MAIN_CLASS_NAME" value="hello.core.singleton.SingletonTest" />
-      <option name="METHOD_NAME" value="pureContainer" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -119,17 +202,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XmlAppContext.xmlAppContext" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SingletonTest.springContainer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="core.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hello.core.xml.*" />
+          <option name="PATTERN" value="hello.core.singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="hello.core.xml" />
-      <option name="MAIN_CLASS_NAME" value="hello.core.xml.XmlAppContext" />
-      <option name="METHOD_NAME" value="xmlAppContext" />
+      <option name="PACKAGE_NAME" value="hello.core.singleton" />
+      <option name="MAIN_CLASS_NAME" value="hello.core.singleton.SingletonTest" />
+      <option name="METHOD_NAME" value="springContainer" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -137,24 +220,59 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ApplicationContextBasicFindTest" />
+        <item itemvalue="JUnit.SingletonTest.springContainer" />
+        <item itemvalue="Gradle.SingletonTest.springContainer" />
+        <item itemvalue="JUnit.SingletonTest" />
         <item itemvalue="JUnit.SingletonTest.singletonServiceTest" />
-        <item itemvalue="JUnit.SingletonTest.pureContainer" />
-        <item itemvalue="JUnit.BeanDefinitionTest.findApplicationBean" />
-        <item itemvalue="JUnit.XmlAppContext.xmlAppContext" />
-        <item itemvalue="JUnit.ApplicationContextExtendsFindTest.findAllBeanByObjectType" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b622a4d6-bccb-4525-a786-0cb72de493ac" name="Changes" comment="" />
+      <changelist id="86cdcb1d-f738-40f3-b744-40ce1a7e6586" name="Changes" comment="" />
       <created>1639408296344</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1639408296344</updated>
     </task>
+    <task id="LOCAL-00001" summary="ㅅㄷㄴㅅ">
+      <created>1640097083871</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1640097083871</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="test" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ㅅㄷㄴㅅ" />
+    <option name="LAST_COMMIT_MESSAGE" value="ㅅㄷㄴㅅ" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
