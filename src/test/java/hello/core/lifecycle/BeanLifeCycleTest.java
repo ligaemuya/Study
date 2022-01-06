@@ -14,7 +14,8 @@ public class BeanLifeCycleTest {
 
         ConfigurableApplicationContext ac = new AnnotationConfigApplicationContext(LifeCycleConfig.class);
         NetworkClient client = ac.getBean(NetworkClient.class);
-
+        String url = client.getUrl();
+        System.out.println("테스트 마지막 = " + url);
         ac.close();
     }
 
